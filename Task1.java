@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*1. Напишите метод, который принимает на вход строку (String)
 и определяет является ли строка палиндромом (возвращает boolean значение).*/
 
-public class task1 {
+public class Task1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Введите строку: ");
