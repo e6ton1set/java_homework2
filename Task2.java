@@ -10,7 +10,7 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
 
-public class task2 {
+public class Task2 {
     public static void main(String [] args){
         String test = "";
         test = "TEST";
